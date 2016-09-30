@@ -1,5 +1,5 @@
 # MyIntelliJIDEA_KeymapSetting
-保存我自己的IntelliJIDEA常用快捷键
+保存我自己的IntelliJIDEA常用快捷键（setting.jar）
 
 #### 代码补全，自动提示: shift + Spacebar(空格)
 #### 自动包加载，接口方法重写: alt + enter
