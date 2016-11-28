@@ -29,4 +29,4 @@
 #### 快速选择: ctrl + shift + [← →]
 #### 参数交换，例向左会和前一个参数互换： alt + shift + [← →]
 #### run当前类或函数（单元测试）： ctrl + shift + F10
-
+#### 自动重写构造方法和toString...： ctrl + Insert
